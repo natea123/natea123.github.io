@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Meditations"}},"allMarkdownRemark":{"nodes":[{"excerpt":"For the past year or so I have become more and more interested in the crypto space, specifically the Ethereum ecosystem. A good friend of…","fields":{"slug":"/my-first-nft/"},"frontmatter":{"date":"August 29, 2021","title":"My First NFT","description":null}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
