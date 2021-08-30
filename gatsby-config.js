@@ -4,10 +4,12 @@ module.exports = {
     author: {
       name: `Nate Andrews`,
       summary: `part-time Master's CS student at Boston University and full-time sales engineer. Here is my stream of conciousness about coding, crypto/NFTs, environmentalism, golf, and anything in between.`,
+      pathPrefix: `/blog`,
     },
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
