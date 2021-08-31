@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Meditations"}},"allMarkdownRemark":{"nodes":[{"excerpt":"For the past year or so I have become more and more interested in the crypto space, specifically the Ethereum ecosystem. A good friend of…","fields":{"slug":"/my-first-nft/"},"frontmatter":{"date":"August 29, 2021","title":"My First NFT","description":null}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Meditations"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Last night the NFT project I am a part of Secret Society of Whales had a giveaway raffle hosted on Twitch by Kenny Brown. There were a…","fields":{"slug":"/SSoW-giveaway/"},"frontmatter":{"date":"August 31, 2021","title":"The NFT Community Needs To Be Humble","description":null}},{"excerpt":"For the past year or so I have become more and more interested in the crypto space, specifically the Ethereum ecosystem. A good friend of…","fields":{"slug":"/my-first-nft/"},"frontmatter":{"date":"August 29, 2021","title":"My First NFT","description":null}}]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383","3257411868"]}
