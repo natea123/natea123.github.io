@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Meditations`,
     author: {
-      name: `Nate Andrews`,
-      summary: `part-time Master's CS student at Boston University and full-time sales engineer. Below is my stream of conciousness about coding, crypto/NFTs, environmentalism, golf, and anything in between.`,
+      name: `Nate`,
+      summary: `part-time Master's CS student and full-time sales engineer. Here is my stream of conciousness about coding, crypto/NFTs, environmentalism, golf, and anything in between.`,
     },
   },
   plugins: [
